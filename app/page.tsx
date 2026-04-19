@@ -379,9 +379,13 @@ export default function FabioHingstStore() {
 
         <section id="autor" className="mx-auto max-w-7xl px-6 py-24">
           <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
-            <div className="rounded-[2rem] border border-white/10 bg-gradient-to-b from-stone-800 to-stone-950 p-4 shadow-2xl shadow-black/30">
-              <div className="aspect-[4/5] rounded-[1.5rem] border border-white/10 bg-[linear-gradient(to_bottom,rgba(255,255,255,0.04),rgba(0,0,0,0.35))]" />
-            </div>
+           <div className="rounded-[2rem] border border-white/10 bg-gradient-to-b from-stone-800 to-stone-950 p-4 shadow-2xl shadow-black/30">
+            <img
+              src="/autor.jpg"
+              alt="Autor F. H. Hingst"
+              className="aspect-[4/5] w-full object-cover rounded-[1.5rem] border border-white/10"
+        />
+        </div> 
 
             <div>
               <p className="text-sm uppercase tracking-[0.36em] text-amber-400">
