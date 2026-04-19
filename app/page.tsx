@@ -388,21 +388,17 @@ export default function FabioHingstStore() {
                 Sobre o autor
               </p>
               <h3 className="mt-3 text-4xl font-bold tracking-tight md:text-5xl">
-                Uma presença mais forte, literária e profissional
+                F.H.Hingst
               </h3>
               <p className="mt-6 text-lg leading-8 text-stone-300">
-                A proposta une atmosfera de fantasia sombria com estrutura de
-                loja digital, criando uma experiência mais convincente para
-                leitores e compradores.
+                Formado em Medicina Veterinária pela UNESP de Botucatu, com mestrado em epidemiologia e microbiologia e atua como médico veterinário, Fábio Hingst sempre foi amante da literatura. 
+                Escritor há mais de 14 anos e um profundo entusiasta da era medieval e antiga, escreve duas sagas paralelas, uma de Fantasia Épica ("O Ciclo Primevo", seu magnum opus, uma junção de trilogias e duologias que se conectam) e outra de Fantasia Sombria ("A Trilogia dos Indignos"), em dois universos distintos um do outro e com objetivos e desfechos totalmente diferentes.
+                Além disso, também trabalha com romances históricos, historietas de New Weird, horror gótico, GrimDark e retrofuturismo.
               </p>
-              <p className="mt-5 text-base leading-7 text-stone-400">
-                O site pode crescer depois para incluir área do cliente, pedidos,
-                newsletters, promoções, cupons e integração completa de checkout.
-              </p>
-
+              
               <div className="mt-8 grid gap-4 sm:grid-cols-3">
                 <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-5">
-                  <p className="text-2xl font-bold">12 mil+</p>
+                  <p className="text-2xl font-bold">17 mil+</p>
                   <p className="mt-2 text-sm text-stone-400">
                     seguidores e comunidade engajada
                   </p>
