@@ -37,7 +37,7 @@ export default function FabioHingstStore() {
     {
       title: "Homens Sórdidos",
       series: "Trilogia dos Indignos · Livro I",
-      image: "/livr3.jpg",
+      image: "/livr3.png",
       accentText: "text-amber-400",
       accentBorder: "border-amber-400/30",
       accentButton: "bg-amber-400 text-stone-950 hover:brightness-110",
